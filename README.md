@@ -1,8 +1,8 @@
 - 👋 Hi, I’m faith.
 - 👀 I’m interested in fixing and creating effective software
-- 🌱 I’m currently learning typescript and threejs
-- 💞️ I’m looking to collaborate on frontend web projects involving nextjs and typescript.
-- 💞️ I’m also interested in collaborating on backend projects built with nodejs. 
+- 📝 I’m currently learning typescript and threejs
+- 🔸 I’m looking to collaborate on frontend web projects involving nextjs and typescript.
+- 🔸 I’m also interested in collaborating on backend projects built with nodejs. 
 - 📫 How to reach me: leyeolu22@gmail.com
 
 <!---
