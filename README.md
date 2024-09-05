@@ -3,7 +3,7 @@
 - 📝 I’m currently learning threejs and gsap 
 - 🔸 I’m looking to collaborate on frontend web projects involving nextjs and typescript.
 - 🔸 I’m also interested in collaborating on backend projects built with nodejs. 
-- 📫 How to reach me: aaeon456engineer@gmail.com
+- 📫 You can reach me via email: aaeon456engineer@gmail.com
 
 <!---
 Leye5555/Leye5555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
