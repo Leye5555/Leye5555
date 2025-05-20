@@ -34,17 +34,13 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leye5555&show_icons=true&theme=radical" alt="Faith's GitHub Stats"/>
-</p>
 
+## 📊 Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leye5555&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leye5555&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leye5555&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leye5555&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leye5555&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leye5555&theme=radical">
 </p>
 
 ---
